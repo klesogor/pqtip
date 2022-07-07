@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b542907-80bf-45a2-8f78-37524eafb7ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="29TDhDc1vARR4ikbuyfdacglBoZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/pqtip/cipher_suite/prime/sidh" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pqtip/cipher_suite/prime/sidh" />
+      <recent name="$PROJECT_DIR$/src/main/java/pqtip" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pqtip" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/pqtip/definitions" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PqtipDemo">
+    <configuration name="PqtipDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pqtip.PqtipDemo" />
+      <module name="pqtip.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pqtip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PqtipTcpTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;pqtip.PqtipTcpTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PqtipTcpTest.testExchangePerformance" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;pqtip.PqtipTcpTest.testExchangePerformance&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PqtipDemo" />
+        <item itemvalue="Gradle.PqtipTcpTest.testExchangePerformance" />
+        <item itemvalue="Gradle.PqtipTcpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b542907-80bf-45a2-8f78-37524eafb7ba" name="Default Changelist" comment="" />
+      <created>1653128299321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653128299321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653129696168">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="676" y="344" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1653129696168" />
+    <state x="805" y="258" key="#com.intellij.ide.util.MemberChooser" timestamp="1653158752769">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="805" y="258" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1653158752769" />
+    <state width="461" height="506" key="DebuggerActiveHint" timestamp="1655220636664">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="461" height="506" key="DebuggerActiveHint/65.24.1855.1056@65.24.1855.1056" timestamp="1655220636664" />
+    <state x="164" y="96" width="1657" height="885" key="DiffContextDialog" timestamp="1653222375081">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="164" y="96" width="1657" height="885" key="DiffContextDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1653222375081" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1653128327512">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1653128327512" />
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom" timestamp="1655298493248">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1655298493248" />
+    <state width="1809" height="296" key="GridCell.Tab.0.center" timestamp="1655298493247">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1655298493247" />
+    <state width="1809" height="296" key="GridCell.Tab.0.left" timestamp="1655298493247">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1655298493247" />
+    <state width="1809" height="296" key="GridCell.Tab.0.right" timestamp="1655298493248">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1655298493248" />
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1655221521196">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1655221521196" />
+    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1655221521195">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1655221521195" />
+    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1655221521195">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1655221521195" />
+    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1655221521195">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1655221521195" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1655219572063">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1655219572063" />
+    <state x="637" y="278" width="710" height="520" key="find.popup" timestamp="1655222093447">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="637" y="278" width="710" height="520" key="find.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1655222093447" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="this.message[10]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
