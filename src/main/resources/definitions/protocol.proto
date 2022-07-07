@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+enum PrimeCipherSuite {
+    SIDH_NEW_HOPE = 0;
+}
+
+enum SymmetricCipherSuite {
+    TRIPLE_DES = 0;
+    AES = 1;
+}
+message SidhKeyExchangeParams{
+    bytes public_key = 1;
+
+}
+message ClientInit {
+    PrimeCipherSuite prime_cipher_suite = 1;
+    repeated SymmetricCipherSuite symmetric_cipher_suites = 2;
+    // fields 100-199 are reserved for the key exchange parameters
+    bytes challenge = 3;
+    oneof key_exchange_params {
+        SidhKeyExchangeParams sidh_ke_params = 100;
+    }
+}
+message ServerInit {
+    PrimeCipherSuite prime_cipher_suite = 1;
+    SymmetricCipherSuite symmetric_cipher_suite = 2;
+    bytes challenge_verification = 3;
+    bytes certificate = 4;
+    // fields 100-199 are reserved for the key exchange parameters
+    oneof key_exchange_params {
+        SidhKeyExchangeParams sidh_ke_params = 100;
+    }
+}
+message SupportedSidhParams {
+    string named_elliptic_curve = 1;
+}
+
+message ServerUnsupportedParams {
+    repeated PrimeCipherSuite supported_prime_cipher_suites = 1;
+    repeated SymmetricCipherSuite supported_symmetric_cipher_suite = 2;
+    // fields 100-199 are reserved for the key exchange parameters
+    SupportedSidhParams supported_sidh_params = 100;
+}
+message DataTransfer {
+    		int64 sequence_id = 1;
+    		int64 hmac = 2;
+    		bytes data = 3;
+}
